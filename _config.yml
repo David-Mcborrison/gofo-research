@@ -1,0 +1,3 @@
+theme: jekyll-theme-minimal # You can choose other themes like jekyll-theme-cayman, jekyll-theme-hacker etc.
+title: "Comparative Study of CausVid Video Generation"
+description: "A research paper website presenting a comparison of CausVid, including performance benchmarks on NVIDIA H100."
